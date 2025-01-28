@@ -21,5 +21,11 @@ There is also a form that allows the user to enter information about a new party
 
 
 - create a function for fecth 
-- create a function for element display
-- 
+![alt text](image.png)
+
+- create a function for element display - Render
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+- Date switch to MM-DD-YYYY using subString 
+![alt text](image-3.png)
